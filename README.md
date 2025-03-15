@@ -1,4 +1,4 @@
-![edm 1 2](https://github.com/user-attachments/assets/530dac8a-203f-4fc1-9397-553f4025cf17)# Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
+# Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
